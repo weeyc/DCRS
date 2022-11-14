@@ -1,4 +1,4 @@
-DCRS | Dercs Computer Repair Shop Management System
+➤ DCRS | Dercs Computer Repair Shop Management System
 
 ![dcrs](https://user-images.githubusercontent.com/76787324/201713487-079bc471-69e5-4431-90b6-5ccfe9daa57c.png)
 
