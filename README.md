@@ -6,4 +6,4 @@
 
 ➤ Assignment Project of Software Engineer Practice
 
-➤ Laravel
+➤ Framework: Laravel
